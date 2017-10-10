@@ -1,7 +1,9 @@
-<! DOCTYPE htm
+<! DOCTYPE html>
 <html>
-<head>MARKAR</head>
+<head>
+	<title>MARKAR</title>
+</head>
 <body>
-	echo "Markar es una empresa de Marketing conocida a nivel mundial";
+Markar es una empresa de Marketing conocida a nivel mundial
 </body>
 </html>
